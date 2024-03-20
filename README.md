@@ -2,6 +2,8 @@
 
 This Python script, named FindMyMips.py, is designed to help you calculate the base address (load address) of a binary file by analyzing its disassembled code and searching for specific patterns in the assembly instructions. It can be particularly useful when reverse engineering binaries and determining where they are meant to be loaded in memory.
 
+The python script is based on a PHP script with similar purpose written by Carlo Meijer from Midnight Blue.
+
 ### Prerequisites
 
 Before you get started, make sure you have the following prerequisites installed:
